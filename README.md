@@ -10,12 +10,15 @@
 
 # 界面截图
 初始界面
+
 ![image](https://user-images.githubusercontent.com/42289143/144234556-3808d38b-5407-46db-b969-c88965d433d5.png)
 
 开始计时界面
+
 ![image](https://user-images.githubusercontent.com/42289143/144234632-dbd6f8ef-760e-4d3d-827e-5a4146095e4c.png)
 
 结束计时界面
+
 ![image](https://user-images.githubusercontent.com/42289143/144234677-432b72c3-0e16-4227-8478-2e691ffc01cc.png)
 
 
