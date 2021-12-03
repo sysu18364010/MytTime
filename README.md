@@ -10,16 +10,11 @@
 
 # 界面截图
 初始界面
+![image](https://user-images.githubusercontent.com/42289143/144547851-558c818c-8dde-465d-a107-81b892655fb6.png)
 
-![image](https://user-images.githubusercontent.com/42289143/144234556-3808d38b-5407-46db-b969-c88965d433d5.png)
+选择界面
+![image](https://user-images.githubusercontent.com/42289143/144547884-018eb343-1da6-435b-aac3-686eadb7335c.png)
 
-开始计时界面
-
-![image](https://user-images.githubusercontent.com/42289143/144234632-dbd6f8ef-760e-4d3d-827e-5a4146095e4c.png)
-
-结束计时界面
-
-![image](https://user-images.githubusercontent.com/42289143/144234677-432b72c3-0e16-4227-8478-2e691ffc01cc.png)
 
 
 # 源代码
@@ -28,5 +23,5 @@
 # 可执行文件
 无需安装任何环境，直接使用
 这个文件太大了，后面需要优化，直接上传到百度网盘
-链接：https://pan.baidu.com/s/1lwhPrv0PxO9SSFCPZTyPRA 
+链接：https://pan.baidu.com/s/1Ucd5GmjmnT6p35Sa9cv8aw 
 提取码：2233
